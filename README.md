@@ -1,11 +1,24 @@
 # 📊 Portfolio Repository
 
-Welcome to my Portfolio Repository!  
-This space highlights projects that demonstrate my skills in **data analytics, process improvement, and product ownership**. Each project includes goals, deliverables, and links to relevant files.  
+## 👋 About Me  
+
+I’m Rajesh “Jesse” Laffey — an analyst with 7+ years of experience in **compliance, risk management, financial services (payments), and process improvement**. My work has consistently focused on bridging governance requirements with practical, sustainable solutions that improve efficiency and strengthen oversight.  
+
+Across my career, I’ve:  
+- Translated complex regulatory guidance into policies, workflows, and monitoring tools.  
+- Built governance frameworks that improve accuracy, accountability, and transparency.  
+- Led cross-functional projects that modernized processes, improved documentation practices, and introduced automation.  
+- Supported teams through change management and training, ensuring adoption of new tools and practices.  
+- Delivered process and compliance solutions in high-volume financial services environments, including payments, deposits, and account operations.  
+
+What drives me is making compliance and governance practical and accessible — creating systems where accuracy is embedded, accountability is clear, and teams feel empowered to focus on meaningful work rather than manual processes.
+
+This portfolio is a growing collection of projects that reflect that approach: turning complex requirements into clear, usable, and well-documented solutions. 
 
 ---
 
 ## 🗂️ Project 1: Policy Management Insights Dashboard  
+**Status:** Completed — September 20, 2025
 
 ### Goals
 - Provide visibility into policy ownership and review timeliness.  
@@ -31,7 +44,6 @@ This space highlights projects that demonstrate my skills in **data analytics, p
 ---
 
 ## 📬 Contact  
-💼 [LinkedIn](https://www.linkedin.com/in/jesse-laffey)  
-📧 [Your Email Here]  
+💼 [LinkedIn](https://www.linkedin.com/in/rajeshlaffey/)
 
 ---
