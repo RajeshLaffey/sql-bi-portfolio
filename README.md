@@ -18,8 +18,8 @@ This space highlights projects that demonstrate my skills in **data analytics, p
 - **Power BI Dashboard** → Visualizations of overdue policies, departmental workloads, and compliance risk trends.  
 
 ### Links
-- [📂 SQL File](./policy-management-portfolio/sql/policy-management-queries.sql)
-- [📂 Power BI Read Me](./policy-management-portfolio/powerbi/README.md)
+- [📂 SQL File](https://github.com/RajeshLaffey/policy-management-portfolio/blob/main/sql/policy-management-queries.sql)  
+- [📂 Power BI Read Me](https://github.com/RajeshLaffey/policy-management-portfolio/blob/main/powerbi/README.md)  
 
 ### Dashboard Preview
 ![Policy Management Dashboard](https://raw.githubusercontent.com/RajeshLaffey/policy-management-portfolio/main/powerbi/Policy-Review-Summary3.png)
